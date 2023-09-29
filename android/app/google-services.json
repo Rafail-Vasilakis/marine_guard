@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586194472764",
+    "project_id": "marineguard-e0ce9",
+    "storage_bucket": "marineguard-e0ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586194472764:android:a42b8479318ab3428c5839",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO-qA98v60I8dMR3Dbxqk2V7ZvxwgJ0W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
